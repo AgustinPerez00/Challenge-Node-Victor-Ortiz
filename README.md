@@ -2,7 +2,7 @@
 
 - Open console
 
-- Clone repository - git clone https://github.com/ortizvictorw/ortizvictorw-ortizvictorw-Challenge-Backend-inprovein-2021.git
+- Clone repository - git clone https://github.com/ortizvictorw/Challege--Node-VictorOrtiz.git
 
 - Configure .ENV.EXAMPLE
 
