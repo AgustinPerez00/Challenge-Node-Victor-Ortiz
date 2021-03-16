@@ -2,7 +2,7 @@
 
 - Open console
 
-- Clone repository - git clone https://github.com/ortizvictorw/Challege--Node-VictorOrtiz.git
+- Clone repository - git clone https://github.com/ortizvictorw/Challenge-Node-VictorOrtiz.git
 
 - Configure .ENV.EXAMPLE
 
